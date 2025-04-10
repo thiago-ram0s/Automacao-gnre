@@ -13,6 +13,7 @@ driver = None
 primeira_execucao = True
 
 
+
 def iniciar_driver():
     global driver
     if driver is None:
